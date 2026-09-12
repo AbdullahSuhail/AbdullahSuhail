@@ -48,7 +48,7 @@ py,django,nodejs,npm,html,css,bootstrap,sqlite,sklearn,pytorch,git,github,pychar
 Here are some highlighted projects from my profile. For each project you can click the name to view the repository.
 
 
-1. [Resume Parser]([https://github.com/AbdullahSuhail/ChatPost](https://github.com/AbdullahSuhail/Resume_Parser)) 
+1. [Resume Parser](https://github.com/AbdullahSuhail/Resume_Parser)
    - Description:his AI-powered full-stack tool optimizes resumes by comparing PDF content against job descriptions to identify skill gaps and provide a real-time Percentage Match Score. Using LLM integration, it generates role-specific fit evaluations, helping candidates tailor their profiles for ATS algorithms and improve interview success rates.
    - Tech Used: React ,Tailwind , Django ,grop llm api ,python ,pdfplumber 
    - Primary language: Python
