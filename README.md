@@ -48,28 +48,29 @@ py,django,nodejs,npm,html,css,bootstrap,sqlite,sklearn,pytorch,git,github,pychar
 Here are some highlighted projects from my profile. For each project you can click the name to view the repository.
 
 
-2. [Resume Parser]([https://github.com/AbdullahSuhail/ChatPost](https://github.com/AbdullahSuhail/Resume_Parser)) 
+1. [Resume Parser]([https://github.com/AbdullahSuhail/ChatPost](https://github.com/AbdullahSuhail/Resume_Parser)) 
    - Description:his AI-powered full-stack tool optimizes resumes by comparing PDF content against job descriptions to identify skill gaps and provide a real-time Percentage Match Score. Using LLM integration, it generates role-specific fit evaluations, helping candidates tailor their profiles for ATS algorithms and improve interview success rates.
    - Tech Used: React ,Tailwind , Django ,grop llm api ,python ,pdfplumber 
    - Primary language: Python
 
-1. [Blogsite](https://github.com/AbdullahSuhail/Blogsite) 
-   - Description: A full-featured blog website built with Django supporting multiple users, authentication, and CRUD for posts. Responsive UI using HTML/CSS and Bootstrap.
-  - Tech Used: HTML,CSS,Javascipt ,Tailwind , Django ,python
+2. [RAG YOUTUBE]([https://github.com/AbdullahSuhail/Youtube_Rag]) 
+   - Description:A YouTube-based RAG application that extracts video transcripts, generates embeddings, performs semantic retrieval, and uses an LLM to answer user queries based on relevant video content, with a Django backend and React frontend. Tech Used: Python, Django, React, RAG, NLP, Embeddings, Vector Database, LLM.
+  - Tech Used: Python, Django, React, RAG, NLP, Embeddings, Vector Database, LLM
  
 
 2. [ChatPost](https://github.com/AbdullahSuhail/ChatPost) 
    - Description: (Project repository) Chat-based posting or content demo built with Python. Contains backend and possibly ML/processing components.
    - Stars: 0 • Forks: 0 • Issues: 0
    - Primary language: Python
+   - 
+3. [LLMs-Tuts](https://github.com/AbdullahSuhail/LLMs-Tuts) 
+   - Description: Tutorials and experiments focused on Large Language Models and how to work with them in notebooks.
+   - Primary language: Jupyter Notebook
 
-3. [WebScapper](https://github.com/AbdullahSuhail/WebScapper) 
+4. [WebScapper](https://github.com/AbdullahSuhail/WebScapper) 
    - Description: Learning web scraping — Jupyter Notebooks demonstrating scraping workflows and data extraction.
    - Primary language: Jupyter Notebook
 
-4. [LLMs-Tuts](https://github.com/AbdullahSuhail/LLMs-Tuts) 
-   - Description: Tutorials and experiments focused on Large Language Models and how to work with them in notebooks.
-   - Primary language: Jupyter Notebook
 
 5. [ImageSearchEngine](https://github.com/AbdullahSuhail/ImageSearchEngine) 
    - Description: Image search experiment implemented with JavaScript front-end logic.
