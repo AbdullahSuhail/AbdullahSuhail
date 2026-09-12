@@ -53,7 +53,7 @@ Here are some highlighted projects from my profile. For each project you can cli
    - Tech Used: React ,Tailwind , Django ,grop llm api ,python ,pdfplumber 
    - Primary language: Python
 
-2. [RAG YOUTUBE]([https://github.com/AbdullahSuhail/Youtube_Rag]) 
+2. [RAG YOUTUBE](https://github.com/AbdullahSuhail/Youtube_Rag) 
    - Description:A YouTube-based RAG application that extracts video transcripts, generates embeddings, performs semantic retrieval, and uses an LLM to answer user queries based on relevant video content, with a Django backend and React frontend. Tech Used: Python, Django, React, RAG, NLP, Embeddings, Vector Database, LLM.
   - Tech Used: Python, Django, React, RAG, NLP, Embeddings, Vector Database, LLM
  
